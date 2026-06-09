@@ -1,0 +1,11 @@
+chainlit
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pymupdf
+requests
+python-dotenv
